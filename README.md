@@ -1,8 +1,8 @@
-🚀 Calculadora Galáctica
+<h2 align="center">Calculadora Galática</h2>
 
 Uma calculadora científica com temática espacial, desenvolvida utilizando HTML, CSS e JavaScript. O projeto combina funcionalidades matemáticas com uma interface visual inspirada no universo e na tecnologia.
 
-🌌 Sobre o projeto
+<h2 align="center">Sobre o projeto</h2> 
 
 A Calculadora Galáctica foi desenvolvida como um projeto de estudo para praticar conceitos fundamentais de desenvolvimento web, principalmente:
 
@@ -15,7 +15,7 @@ Organização de uma interface interativa.
 
 A interface possui um fundo estrelado animado e uma calculadora central com elementos visuais inspirados em uma estética futurista/espacial.
 
-✨ Funcionalidades
+Funcionalidades
 
 A calculadora permite realizar:
 
@@ -35,7 +35,7 @@ log Logaritmo
 
 As funções científicas utilizam métodos matemáticos disponíveis no JavaScript, como Math.sin(), Math.cos(), Math.tan() e Math.log().
 
-🎨 Interface
+<h2 align="center">Interface</h2>
 
 O projeto utiliza uma identidade visual baseada em:
 
@@ -48,11 +48,12 @@ O projeto utiliza uma identidade visual baseada em:
 
 O fundo estrelado utiliza uma textura externa e uma animação CSS para criar o movimento das estrelas.
 
-🛠️ Tecnologias utilizadas
+<h2 align="center">Tecnologias utilizadas</h2> 
 Tecnologia	Utilização
 HTML5	Estrutura da calculadora
 CSS3	Estilização, layout, animações e efeitos visuais
 JavaScript	Lógica e funcionamento da calculadora
+
 📂 Estrutura do projeto
 calculadora-galactica/
 │
@@ -67,7 +68,7 @@ index.html
 
 Você também pode utilizar uma extensão como Live Server no VS Code para executar o projeto localmente.
 
-🧮 Como funciona
+<h2 align="center">Como funciona?</h2> 
 
 Os números e operadores são inseridos diretamente no display através da função inserir().
 
@@ -85,7 +86,7 @@ HTML + CSS
 
 Além da lógica de programação, o projeto também trabalha conceitos de design de interface, interação com o usuário e animações CSS.
 
-👩‍💻 Desenvolvido por
+<h2 align="center">Desenvolvido por: </h2> 
 
 Izadora Rodrigues
 
