@@ -61,13 +61,6 @@ calculadora-galactica/
 
 O projeto está organizado em um único arquivo HTML, contendo a estrutura, estilos CSS e funcionalidades JavaScript da aplicação.
 
-🚀 Como executar
-1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/calculadora-galactica.git
-2. Entre na pasta
-cd calculadora-galactica
-3. Execute
-
 Abra o arquivo:
 
 index.html
